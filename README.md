@@ -157,6 +157,7 @@ This Binary Search Tree (BST) implementation allows users to insert, delete, sea
 
 4. **Test the application**:
     You can use the `main` method to test the implementation with different data types (e.g., `Integer`, `String`, `Double`).
+   ![image](https://github.com/user-attachments/assets/b6c3dc4b-5130-4cc9-b14f-5dd09e13edd5)
 
 ---
 
@@ -289,7 +290,8 @@ This report outlines the unit and integration tests conducted for the **Binary S
 - **Data Type Flexibility**: Tests are conducted for `Integer`, `String`, and `Double` to confirm that the implementation handles generics correctly.
 
 
-![Test report](https://github.com/alexandrac1420/Securidad_Nube/blob/master/Pictures/image.png)
+![Test report](https://github.com/user-attachments/assets/a635acf0-9d2b-4636-95a6-aa136b9ff3a4)
+
 
 
 ## Built With
