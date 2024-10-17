@@ -66,7 +66,7 @@ Other auxiliary functions like `clear`, `countNodes`, and `levelOrderTraversal` 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine and on AWS for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine
 
 ### Prerequisites
 
