@@ -141,7 +141,7 @@ This Binary Search Tree (BST) implementation allows users to insert, delete, sea
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-repo/BinarySearchTree.git
+    git clone https://github.com/alexandrac1420/BinarySearchTree.git
     cd BinarySearchTree
     ```
 
@@ -152,7 +152,7 @@ This Binary Search Tree (BST) implementation allows users to insert, delete, sea
 
 3. **Run the application**:
     ```sh
-    java -jar target/BinarySearchTree-1.0.jar
+    java -jar target/BST-0.0.1-SNAPSHOT.jar
     ```
 
 4. **Test the application**:
@@ -300,7 +300,7 @@ This report outlines the unit and integration tests conducted for the **Binary S
 
 ## Versioning
 
-I use [GitHub](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/alexandrac1420/Patrones_Arquitecturales.git).
+I use [GitHub](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/alexandrac1420/BinarySearchTree.git)
 
 ## Authors
 
